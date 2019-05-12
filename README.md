@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Hi i am Askhat!
+i am from Kazakhstan.
