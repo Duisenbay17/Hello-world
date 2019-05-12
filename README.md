@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Hi Humans!
+My name is Askhat and i am from Kazakhstan.
