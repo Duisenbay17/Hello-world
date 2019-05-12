@@ -1,3 +1,3 @@
 # Hello-world
-Hi i am Askhat!
-i am from Kazakhstan.
+Hi Humans!
+My name is Askhat and i am from Kazakhstan.
